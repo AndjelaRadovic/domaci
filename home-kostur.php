@@ -1,4 +1,4 @@
-
+ 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -42,7 +42,7 @@
                 <th scope="col">Predmet</th>
                 <th scope="col">Katedra</th>    
                 <th scope="col">Sala</th>
-                <th scope="col">Datum</th>
+                <th scope="col">Datum kolokvijuma</th>
             </tr>
             </thead>
             <tbody>
